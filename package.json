@@ -16,7 +16,7 @@
     "test": "grunt travis --verbose"
   },
   "dependencies": {
-    "requirejs": "2.1.x"
+    "requirejs": "2.3.7"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
